@@ -17,35 +17,17 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <h2>Program walk-through:</h2>
 
-<p align="center">
-Launch the utility: <br/>
-<img src="https://imgur.com/a/PJ1PgKV" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://imgur.com/PjNM95q" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
+![IMG-1](https://github.com/arun-2001/ACTIVE-DIRECTORY01/assets/63862798/25d378e9-802b-4cf3-8060-a467a23af0ec)
+
+![IMG-2](https://github.com/arun-2001/ACTIVE-DIRECTORY01/assets/63862798/a60f9290-be7e-4c82-873b-9ed7178f964c)
+
+![IMG-4](https://github.com/arun-2001/ACTIVE-DIRECTORY01/assets/63862798/b177b26e-bc07-44d5-ad25-eb8842f68e04)
+
+![5c93cdd0-9479-4464-8495-f8fe086fe006](https://github.com/arun-2001/ACTIVE-DIRECTORY01/assets/63862798/36dd7820-5848-4f09-ae29-457e11406f5a)
+
+
+![05922f21-bba0-4a9f-a932-617b870735eb](https://github.com/arun-2001/ACTIVE-DIRECTORY01/assets/63862798/5f5aad42-d723-4d41-9e66-76a2459d02e5)
 <!--
  ```diff
 - text in red
